@@ -47,6 +47,4 @@ The application uses a Vision Transformer (ViT) as the vision encoder and a Tran
 
 ---
 
-**Author:**  
-Assignment 5.2: Multimodal Application Demo
 
